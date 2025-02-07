@@ -29,8 +29,11 @@ Merge both datasets to analyze customer characteristics for loyalty and profitab
 ## Top 3 Most Profitable Products
 
 Dorito Corn Chip Supreme 380g – $40,352
+
 Smiths Crinkle Chip Original Big Bag 380g – $36,367.60
+
 Smiths Crinkle Chips Salt & Vinegar 330g – $34,804.20
+
 Now, I'll analyze customer loyalty by merging both datasets based on LYLTY_CARD_NBR and identifying the characteristics of the most loyal customers. ​​
 
 ## Most Loyal Customer Segments
