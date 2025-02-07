@@ -39,11 +39,15 @@ Now, I'll analyze customer loyalty by merging both datasets based on LYLTY_CARD_
 ## Most Loyal Customer Segments
 
 Older Families (Budget buyers) – $168,363.25
+
 Young Singles/Couples (Mainstream buyers) – $157,621.60
+
 Retirees (Mainstream buyers) – $155,677.05
 
 ## Hypothesis on Loyalty Trends
 
 Older Families (Budget Buyers) likely prefer affordability while making bulk purchases, explaining their high spending.
+
 Young Singles/Couples (Mainstream Buyers) may be brand-conscious and willing to spend more for convenience and quality.
+
 Retirees (Mainstream Buyers) may have stable consumption patterns and prefer familiar brands, leading to consistent purchases.
